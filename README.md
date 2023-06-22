@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Kadiri Nurudeen! 👋
 
-<!--
-**Nakalee26/Nakalee26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kadirinurudeen-blue)](https://www.linkedin.com/in/kadirinurudeen/)
 
-Here are some ideas to get you started:
+#### Professional Expertise:
+- Cybersecurity Analyst
+- NIST Risk Management Framework (RMF)
+- Security Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Cybersecurity Projects:
+- **Security Incident Management** - [Effective Incident Response Methodologies](https://github.com/kadirinurudeen/incident-response)
+- **Vulnerability Assessments and Penetration Testing** - [Identifying System Weaknesses and Vulnerabilities](https://github.com/kadirinurudeen/vulnerability-assessment)
+- **Compliance and Regulatory Expertise** - [Implementing NIST RMF Framework](https://github.com/kadirinurudeen/nist-rmf-framework)
+- **Threat Hunting and Intelligence** - [Proactive Identification and Mitigation of Cyber Threats](https://github.com/kadirinurudeen/threat-hunting-intelligence)
+- **Secure Coding Practices** - [Developing Secure Applications](https://github.com/kadirinurudeen/secure-coding-practices)
+- **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/kadirinurudeen/network-security-architecture)
+
+#### Cybersecurity Content:
+- [Cybersecurity Fundamentals: Understanding the Basics](https://www.youtube.com/watch?v=ABCDE)
+- [Introduction to NIST RMF Framework](https://www.youtube.com/watch?v=ABCDE)
+- [Best Practices for Security Operations](https://www.youtube.com/watch?v=ABCDE)
+
+#### Connect with me:
+- [LinkedIn](https://linkedin.com/in/kadirinurudeen)
