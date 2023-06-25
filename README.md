@@ -12,10 +12,9 @@
 - **Security Incident Management** - [Effective Incident Response Methodologies](https://github.com/kadirinurudeen/incident-response)
 - **Vulnerability Assessments and Penetration Testing** - [Identifying System Weaknesses and Vulnerabilities](https://github.com/kadirinurudeen/vulnerability-assessment)
 - **Compliance and Regulatory Expertise** - [Implementing NIST RMF Framework](https://github.com/kadirinurudeen/nist-rmf-framework)
-- **Threat Hunting and Intelligence** - [Proactive Identification and Mitigation of Cyber Threats](https://github.com/kadirinurudeen/threat-hunting-intelligence)
-- **Secure Coding Practices** - [Developing Secure Applications](https://github.com/kadirinurudeen/secure-coding-practices)
 - **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/kadirinurudeen/network-security-architecture)
 - **Managing Linux File Permisssions** - [Managing Linux File Permissions - Secure and Granular Control over File Access](https://github.com/Nakalee26/File-permissions-in-Linux)
+- **Compliance and Regulatory Expertise** - [Implementing ISO 27001 Framework](https://github.com/Nakalee26/iso27001)
 
 #### Cybersecurity Blogs:
 - **Understanding the TCP/IP and OSI Model** - Demystifying Network Protocols and Communication Layers
