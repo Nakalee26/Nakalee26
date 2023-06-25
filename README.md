@@ -1,8 +1,6 @@
 ### Hi, I'm Kadiri Nurudeen! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kadirinurudeen-blue)](www.linkedin.com/in/
-kadiri-nurudeen-4b8a281a5
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kadirinurudeen-blue)](www.linkedin.com/in/kadiri-nurudeen-4b8a281a5)
 
 #### Professional Expertise:
 - Cybersecurity Analyst
@@ -52,6 +50,4 @@ Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github
 
 
 #### Connect with me:
-- [LinkedIn](www.linkedin.com/in/
-kadiri-nurudeen-4b8a281a5
-)
+- [LinkedIn](www.linkedin.com/in/kadiri-nurudeen-4b8a281a5)
