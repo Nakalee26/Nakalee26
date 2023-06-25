@@ -10,7 +10,7 @@
 
 #### Cybersecurity Projects:
 - **Security Incident Management** - [Effective Incident Response Methodologies](https://github.com/kadirinurudeen/incident-response)
-- **Vulnerability Assessments and Penetration Testing** - [Identifying System Weaknesses and Vulnerabilities](https://github.com/kadirinurudeen/vulnerability-assessment)
+- **Vulnerability Assessments and Penetration Testing** - [Identifying System Weaknesses and Vulnerabilities](https://github.com/Nakalee26/Open-redirect-On-XYZ.com-Via-X-Forwarded-Host-Header)
 - **Compliance and Regulatory Expertise** - [Implementing NIST RMF Framework](https://github.com/kadirinurudeen/nist-rmf-framework)
 - **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/kadirinurudeen/network-security-architecture)
 - **Managing Linux File Permisssions** - [Managing Linux File Permissions - Secure and Granular Control over File Access](https://github.com/Nakalee26/File-permissions-in-Linux)
