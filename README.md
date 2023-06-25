@@ -6,6 +6,7 @@
 - Cybersecurity Analyst
 - NIST Risk Management Framework (RMF)
 - Security Operations
+- Risk Assessment Methodology
 
 #### Cybersecurity Projects:
 - **Security Incident Management** - [Effective Incident Response Methodologies](https://github.com/kadirinurudeen/incident-response)
@@ -14,6 +15,7 @@
 - **Threat Hunting and Intelligence** - [Proactive Identification and Mitigation of Cyber Threats](https://github.com/kadirinurudeen/threat-hunting-intelligence)
 - **Secure Coding Practices** - [Developing Secure Applications](https://github.com/kadirinurudeen/secure-coding-practices)
 - **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/kadirinurudeen/network-security-architecture)
+- **Managing Linux File Permisssions** - [Managing Linux File Permissions - Secure and Granular Control over File Access](https://github.com/Nakalee26/File-permissions-in-Linux)
 
 #### Cybersecurity Content:
 - [Cybersecurity Fundamentals: Understanding the Basics](https://www.youtube.com/watch?v=ABCDE)
