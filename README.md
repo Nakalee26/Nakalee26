@@ -38,7 +38,7 @@ Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github
 
 In this blog post, we demystify the Risk Management Framework (RMF) and its role in establishing robust security controls. We discuss the key steps and activities involved in the RMF process, including risk assessment, control selection, implementation, and continuous monitoring. By understanding and effectively implementing the RMF framework, organizations can proactively identify and mitigate risks to their information systems.
 
-Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/Cybersecurity.html)) to gain insights into the Risk Management Framework and enhance your organization's security posture.
+Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/Certification.html) to gain insights into the Risk Management Framework and enhance your organization's security posture.
 
 - **ISO 27001** - Achieving Information Security Excellence with ISO 27001
 
