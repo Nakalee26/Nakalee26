@@ -10,12 +10,10 @@
 - Risk Assessment Methodology
 
 #### Cybersecurity Projects:
-- **Security Incident Management** - [Effective Incident Response Methodologies](https://github.com/kadirinurudeen/incident-response)
 - **Vulnerability Assessments and Penetration Testing** - [Identifying System Weaknesses and Vulnerabilities](https://github.com/Nakalee26/Open-redirect-On-XYZ.com-Via-X-Forwarded-Host-Header)
-- **Compliance and Regulatory Expertise** - [Implementing NIST RMF Framework](https://github.com/kadirinurudeen/nist-rmf-framework)
-- **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/kadirinurudeen/network-security-architecture)
+- **Risk Assessment** - [Documenting Risk Assesment ](https://github.com/kadirinurudeen/nist-rmf-framework)
+- **Network Security Architecture** - [Designing and Implementing Secure Network Infrastructures](https://github.com/Nakalee26/Wireshark-log-analysis-for-SYN-ICMP-flood-DOS-attack)
 - **Managing Linux File Permisssions** - [Managing Linux File Permissions - Secure and Granular Control over File Access](https://github.com/Nakalee26/File-permissions-in-Linux)
-- **Compliance and Regulatory Expertise** - [Implementing ISO 27001 Framework](https://github.com/Nakalee26/iso27001)
 
 #### Cybersecurity Blogs:
 - **Understanding the TCP/IP and OSI Model** - Demystifying Network Protocols and Communication Layers
