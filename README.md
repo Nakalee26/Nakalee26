@@ -44,7 +44,7 @@ Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github
 
 In this blog post, we explore the ISO 27001 standard and its significance in establishing an effective information security management system. We delve into the key requirements, implementation considerations, and benefits of achieving ISO 27001 certification. By aligning with ISO 27001, organizations can enhance their information security practices and demonstrate their commitment to protecting valuable assets.
 
-Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/Cybersecurity.html) to learn more about ISO 27001 and its role in achieving information security excellence.
+Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/elements.html) to learn more about ISO 27001 and its role in achieving information security excellence.
 
 
 
