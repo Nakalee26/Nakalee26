@@ -26,7 +26,7 @@ Throughout the blog, we explore the layers of both models, discussing their purp
 
 By grasping the TCP/IP and OSI model, readers will gain insights into the inner workings of network communication. Whether you are a beginner looking to enhance your foundational knowledge or an experienced professional seeking to refresh your understanding, this blog post will serve as a valuable resource to navigate the complexities of network protocols and communication layers.
 
-Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/Cybersecurity.html) to embark on an illuminating journey into the world of TCP/IP and OSI model.
+Read the full blog post [here](https://nakalee26.github.io/kadirinurudeen.github.io/tcp-ipmodel.html) to embark on an illuminating journey into the world of TCP/IP and OSI model.
 
 - **Security Categorization** - A Comprehensive Guide to Effective Security Categorization
 
